@@ -30,6 +30,6 @@ _This a portfolio webpage project allows to users to create a simple HTML and CS
 
 ## License
 
-[MIT] (https://en.wikipedia.org/wiki/MIT_License)
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Copyright (c) _2023_ _Ermek Abdrazakov_
