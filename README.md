@@ -2,7 +2,7 @@
 
 #### By _**Ermek Abdrazakov**_
 
-#### _ Simple HTML and CSS. _
+#### Simple HTML and CSS.
 
 ## Technologies Used
 
