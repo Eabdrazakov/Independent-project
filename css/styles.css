@@ -1,0 +1,51 @@
+.main {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+}
+
+
+img {
+    max-width: 80%;
+    max-height: 80%;
+    border-radius: 100%;
+    object-fit: cover;
+    background-color: black;
+
+}
+
+.about-me {
+
+    box-sizing: content-box;
+}
+
+.highlight {
+    font-style: italic;
+}
+
+#hobby {
+    border: 2px solid black;
+    padding: 4px;
+    margin: 12px;
+    background-color: aliceblue;
+    width: 50%;
+}
+
+.box {
+    padding: 4px;
+    margin: 12px;
+    background-color: azure;
+    width: 50%;
+
+}
+
+.muk {
+    width: 500px;
+    height: 500px;
+}
